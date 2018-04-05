@@ -15,3 +15,6 @@ I have 6+ years working as a software engineer while performing many different t
 
 ### Interests
 When I'm not at work, I enjoy playing video games, bowling, and messing with various languages/frameworks/APIs. I love learning about how machines work at the lowest levels.
+
+### Past Work
+[Testing Experience](https://pafijohn.github.com/Portfolio/Testing)
