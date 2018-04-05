@@ -13,5 +13,5 @@ I have 6+ years working as a software engineer while performing many different t
 * Awarded Computer Networking Technician certificate at Yavapai College
 * Fixed bugs in embedded applications
 
-### Interets
+### Interests
 When I'm not at work, I enjoy playing video games, bowling, and messing with various languages/frameworks/APIs. I love learning about how machines work at the lowest levels.
